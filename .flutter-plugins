@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.10.1\\
+firebase_auth=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.8.4+5\\
+firebase_core=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.3.4\\
+geocoder=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geocoder-0.1.2\\
+geoflutterfire=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geoflutterfire-2.0.3+3\\
+geolocator=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-5.1.1+1\\
+google_api_availability=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_api_availability-2.0.1\\
+google_maps_flutter=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.15\\
+location=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location-2.3.5\\
+location_permissions=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_permissions-2.0.2\\
+path_provider=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-0.5.0+1\\
+shared_preferences=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.3+4\\
+sqflite=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.1.6+2\\
